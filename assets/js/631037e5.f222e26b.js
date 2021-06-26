@@ -1,0 +1,1 @@
+(self.webpackChunkr_05323028_github_io=self.webpackChunkr_05323028_github_io||[]).push([[801],{7522:function(g){"use strict";g.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"blog","name":"blog","count":1,"permalink":"/blog/tags/blog"}')}}]);

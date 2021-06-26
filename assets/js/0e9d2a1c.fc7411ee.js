@@ -1,0 +1,1 @@
+(self.webpackChunkr_05323028_github_io=self.webpackChunkr_05323028_github_io||[]).push([[837],{121:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"datascience","name":"datascience","count":1,"permalink":"/blog/tags/datascience"}')}}]);
