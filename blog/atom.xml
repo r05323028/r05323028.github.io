@@ -6,7 +6,6 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://r05323028.github.io/blog"/>
     <subtitle>Sean Chang Blog</subtitle>
-    <icon>https://r05323028.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[第一篇部落格]]></title>
         <id>first-post</id>
