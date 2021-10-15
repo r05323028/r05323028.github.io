@@ -4,15 +4,15 @@
         <title>Sean Chang Blog</title>
         <link>https://r05323028.github.io/blog</link>
         <description>Sean Chang Blog</description>
-        <lastBuildDate>Sat, 26 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[第一篇部落格]]></title>
-            <link>https://r05323028.github.io/blog/first-post</link>
-            <guid>first-post</guid>
-            <pubDate>Sat, 26 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[我的第一篇部落格]]></description>
+            <title><![CDATA[Eyes - 台灣輿情監測系統]]></title>
+            <link>https://r05323028.github.io/blog/eyes</link>
+            <guid>eyes</guid>
+            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[近期自己開發的 Side project]]></description>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,1 @@
+(self.webpackChunkr_05323028_github_io=self.webpackChunkr_05323028_github_io||[]).push([[147],{4681:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"nlp","name":"nlp","count":1,"permalink":"/blog/tags/nlp"}')}}]);

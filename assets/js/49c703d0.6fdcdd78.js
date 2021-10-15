@@ -1,0 +1,1 @@
+(self.webpackChunkr_05323028_github_io=self.webpackChunkr_05323028_github_io||[]).push([[582],{6967:function(i){"use strict";i.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"public-opinion","name":"public opinion","count":1,"permalink":"/blog/tags/public-opinion"}')}}]);
